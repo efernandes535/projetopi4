@@ -1,4 +1,4 @@
-# Projeto PI4: Controle de Umidade e Temperatura com ESP32 e DHT11
+# Projeto PI5: Controle de Umidade e Temperatura com ESP32 e DHT11
 
 ## Descrição
 
